@@ -1,11 +1,11 @@
-# simple-interest-calculator
+# github-final-project
 
+A calculator that computes simple interest based on user input.
 
-A Bash-based simple interest calculator for educational purposes.
+## Input
+- Principal amount
+- Rate of interest
+- Time period
 
-## Features
-- Computes simple interest from user input
-- Clean, well-documented shell script
-
-## Usage
-Run the script and enter principal, rate, and time when prompted.
+## Output
+- Simple interest calculated using SI = (P × R × T) / 100
